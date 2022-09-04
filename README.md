@@ -1,6 +1,6 @@
 # TinDog
-TinDog is a dog dating website project (focusing mainly on using bootstrap) 
+TinDog is a dog store website project (focusing mainly on using bootstrap) 
 <br />
 <br />
-This site is avaiable at [this link](https://haniesolaty.github.io/TinDog/)
+This site is avaiable at [this link](https://haniesolaty.github.io/FrienDog/)
 
